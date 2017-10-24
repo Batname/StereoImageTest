@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.17",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "StereoImageTest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "SimpleHMD",
+			"Enabled": true
+		}
+	]
+}
